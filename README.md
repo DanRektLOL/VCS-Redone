@@ -7,7 +7,7 @@ A couple of mods I bundled together for GTA VCS. The list of mods used is given 
 And I think that's all, if you think I used a mod of yours, reach out to me at @danrekt on discord, and if any of the authors have a problem with me using their mods, reach out to me and I will take this repository down.
 
 Works with the SLUS-21590 version of the game.
-Keyboard is not fully supported so dont open an issue related to keyboard support in GTAVCS.PCSX2F.WidescreenFix.ini.
+Keyboard is not fully supported so dont open an issue related to keyboard support. It can be enabled in GTAVCS.PCSX2F.WidescreenFix.ini.
 
 # Installation
 
@@ -19,7 +19,7 @@ Step 2. Drag'n drop the contents of VCS-Redone.zip into there
 
 Step 3. For 1st time setup, you will have to launch pcsx2-qtx64-clang.exe and go to settings>controllers>controller port 1>Automatic mapping and click on your controller.
                                   (For KB support go to Hotkeys and make sure all of them are unbound by right clicking them.)
-             Now, you can open pcsx2-qtx64-clang.exe and press on Grand Theft Auto Vice City Stories to start playing.
+             Now, you can open pcsx2-qtx64-clang.exe and double-click Grand Theft Auto Vice City Stories to start playing.
 
 Step 4 (optional, for best gaming experience) To make a shortcut,
                             Double click on your game .iso, and choose to run it with another program, go to your pcsx2f directory and choose it,
