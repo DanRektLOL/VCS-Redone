@@ -21,11 +21,9 @@ Step 3. For 1st time setup, you will have to launch pcsx2-qtx64-clang.exe and go
                                   (For KB support go to Hotkeys and make sure all of them are unbound by right clicking them.)
              Now, you can open pcsx2-qtx64-clang.exe and double-click Grand Theft Auto Vice City Stories to start playing.
 
-Step 4 (optional, for best gaming experience) To make a shortcut,
-                            Double click on your game .iso, and choose to run it with another program, go to your pcsx2f directory and choose it,
-              This should launch the game, close it now, rename your .iso to VCS.iso, now right click the top, where it tells your folder address, and press copy address as text.
+Step 4 (optional, for best gaming experience) To make a shortcut, rename your .iso to VCS.iso, now right click the top, where it tells your folder address, and press copy address as text.
 
-Now open up PlayVCS.txt, in your pcsx2f folder, and paste your folder address right before it says \VCS. Now, it should be, for example
+Now open up PlayVCS.txt, in your pcsx2f folder, and paste your folder address right before it says \VCS.iso. Now, it should be, for example
                         START pcsx2-qtx64-clang.exe "D:\ExampleFolder\VCS.iso
 Now save it and close it, now rename it to PlayVCS.bat. Now, you can run this to run the game.
 Right-click it, send to desktop, and you got yourself a working VCS shortcut.
@@ -36,3 +34,4 @@ Right-click it, send to desktop, and you got yourself a working VCS shortcut.
 / Windows on buildings might look a bit odd, but just live with it, I think I could fix it, if anyone has a problem with them, open an issue, and I'll see what I can do.
 
 # I CLAIM NO CREDIT FOR ANY OF THIS.
+Tutorial is only really for Windows 10 and 11. Compatibility with other OSes unknown.
