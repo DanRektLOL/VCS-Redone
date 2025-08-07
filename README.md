@@ -32,7 +32,7 @@ Right-click it, send to desktop, and you got yourself a working VCS shortcut.
 
 # Known bugs
 
-For certain missions, like Boomshine Blowout, you will have to go to PLUGINS\GTAVCS.PCSX2F.WidescreenFix.ini and change 60FPS To 0
-Windows might look a bit odd, but just live with it, ig, I could change the texture pack, but if anyone minds it, open an issue and I'll create a seperate file where its fixed.
+/ For certain missions, like Boomshine Blowout, you will have to go to PLUGINS\GTAVCS.PCSX2F.WidescreenFix.ini and change 60FPS To 0
+/ Windows on buildings might look a bit odd, but just live with it, I think I could fix it, if anyone has a problem with them, open an issue, and I'll see what I can do.
 
 # I CLAIM NO CREDIT FOR ANY OF THIS.
