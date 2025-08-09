@@ -13,9 +13,9 @@ Keyboard is not fully supported so dont open an issue related to keyboard suppor
 
 You will need to provide your own (US) GTA VCS ROM and PS2 firmware dumped from a PS2.
 
-Step 1. Download and setup [PCSX2F](https://github.com/ASI-Factory/PCSX2-Fork-With-Plugins/releases/download/latest/PCSX2Fork-Windows-x64-Clang-SSE4.zip) and drop your ROM into the Games folder. (I wont delve into how to set it up, you should be able to find guides on the internet, its the same as setting up normal PCSX2) Choose portable mode when it asks you.
+Step 1. Download V 1.0.2
 
-Step 2. Drag'n drop the contents of VCS-Redone.zip into there
+Step 2. Drag n drop your ROM iso in Games folder
 
 Step 3. For 1st time setup, you will have to launch pcsx2-qtx64-clang.exe and go to settings>controllers>controller port 1>Automatic mapping and click on your controller.
                                   (For KB support go to Hotkeys and make sure all of them are unbound by right clicking them.)
@@ -31,7 +31,7 @@ Right-click it, send to desktop, and you got yourself a working VCS shortcut.
 # Known bugs
 
 / For certain missions, like Boomshine Blowout, you will have to go to PLUGINS\GTAVCS.PCSX2F.WidescreenFix.ini and change 60FPS To 0
-/ Windows on buildings might look a bit odd, but just live with it, I think I could fix it, if anyone has a problem with them, open an issue, and I'll see what I can do.
+/ Windows on buildings are completely transparent which looks a bit odd, but just live with it, I think I could fix it, if anyone has a problem with them, open an issue, and I'll see what I can do.
 
 # I CLAIM NO CREDIT FOR ANY OF THIS.
 Tutorial is only really for Windows 10 and 11. Compatibility with other OSes unknown.
