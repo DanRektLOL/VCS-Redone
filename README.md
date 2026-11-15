@@ -1,4 +1,8 @@
+NOTE: now that its 2026 and the VCS recomp is out, you'd have a MUCH better experience with that than with this. Cheers! 
+
 # VCS-Redone
+
+NOTE: now that its 2026 and the VCS recomp is out, you'd have a MUCH better experience with that than with this. Cheers! 
 A couple of mods I bundled together for GTA VCS. The list of mods used is given below:-
 1. [Improved Vehicle Lights, Project2DFX, and Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases?q=Grand+Theft+Auto+Vice+City+Stories+Widescreen+Fix+%5BPCSX2F%5D&expanded=true) by Thirteenag
 2. [HD HUD](https://gtaforums.com/topic/983317-grand-theft-auto-vice-city-stories-hd-hud-for-pcsx2/) by Tervel1337
